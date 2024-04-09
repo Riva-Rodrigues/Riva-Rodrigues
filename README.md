@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Riva, a 2nd-year computer engineering student.<br><br>💡 Currently diving into:<br>  Deep Learning<br>  Computer Vision<br><br><br>
+# 👋 Hey, I'm Riva
+ 🎓 2nd-year computer engineering student.<br><br>💡 Currently diving into:<br>  Deep Learning<br>  Computer Vision<br><br><br>
 
 
 # 💻 Tech Stack:
